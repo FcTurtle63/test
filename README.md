@@ -1,2 +1,2 @@
 # test
-Educational testing purpouse
+Educational testing pourpouse
